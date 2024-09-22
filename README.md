@@ -56,4 +56,4 @@ The server will log any errors that occur during initialization or while the app
 - Replace `<your-mongodb-connection-string>` with your actual MongoDB connection URI in the `.env` file.
 - Adjust the repository link in the installation section after pushing to GitHub. 
 
-# Let me know if you'd like to add any additional information!
+Let me know if you'd like to add any additional information!
